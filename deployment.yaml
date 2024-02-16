@@ -15,5 +15,5 @@ spec:
         app: pet-deploy
     spec:
       containers:
-      - image: sangay11/sangay:19
+      - image: sangay11/sangay:5
         name: pet
